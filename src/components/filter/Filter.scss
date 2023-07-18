@@ -1,0 +1,21 @@
+.label-filter {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    color: #000;
+}
+
+.input-filter {
+    width: 200px;
+    
+    margin-bottom: 10px;
+    padding: 5px 10px;
+
+    border-radius: 10px;
+    border-color: #000;
+    color: #000;
+}
